@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BitwiseOpeator/BitwiseOpeator.iml" filepath="$PROJECT_DIR$/BitwiseOpeator/BitwiseOpeator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hashing/Hashing.iml" filepath="$PROJECT_DIR$/Hashing/Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java Basics/Java Basics.iml" filepath="$PROJECT_DIR$/Java Basics/Java Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java DSA.iml" filepath="$PROJECT_DIR$/Java DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LeetCode Practice/LeetCode Practice.iml" filepath="$PROJECT_DIR$/LeetCode Practice/LeetCode Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Maths Basics/Maths Basics.iml" filepath="$PROJECT_DIR$/Maths Basics/Maths Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/OOPS.iml" filepath="$PROJECT_DIR$/OOPS/OOPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching/Searching.iml" filepath="$PROJECT_DIR$/Searching/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recurrsion/recurrsion.iml" filepath="$PROJECT_DIR$/recurrsion/recurrsion.iml" />
+    </modules>
+  </component>
+</project>
